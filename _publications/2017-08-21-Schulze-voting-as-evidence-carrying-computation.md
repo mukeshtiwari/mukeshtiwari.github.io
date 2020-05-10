@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-08-21-Schulze-voting-as-evidence-carrying-computation
 excerpt: 'The correctness of vote counting in electronic election is one of the main pillars that engenders trust in electronic elections.'
 date: 2017-08-21
-venue: 'International Conference on Interactive Theorem Proving '
+venue: 'International Conference on Interactive Theorem Proving - 2017'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-66107-0_26'
 
 ---
