@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/VSTTE-talk
 venue: "VSTTE 2019: Verified Software. Theories, Tools, and Experiments"
-date: 2019-07-03
+date: 2019-07-10
 location: "New York City, NY, USA"
 ---
 
