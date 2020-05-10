@@ -30,15 +30,19 @@ Work experience
   * Government of India, Kolkata, India
   * Duties included:  developer for automating the day-to-day job, including enforcing the security policies of the organization.
 
-  
+Awards
+======
+* HDR Fee Remission Merit Scholarship
+* ANU PhD Scholarship (International)
+* Full Scholarship to attend DeepSpec Summer School 2018, Princeton University
+* Travel Scholarship to attend Marktoberdorf Summer School 2019
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Theorem Proving, Cryptography, Electronic Voting, Software Verification
+* Programming Language: Coq, Haskell, OCaml, Lean, Idris, Racket, Clojure, Python, C/C++
+* Language: Hindi, English, Bhojpuri, Bengali
 
 Publications
 ======
@@ -58,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
