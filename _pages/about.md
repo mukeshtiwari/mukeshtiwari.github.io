@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello everyone, welcome to my personal website. My name is Mukesh Tiwari, and currently, I am a [postdoctoral researcher](https://findanexpert.unimelb.edu.au/profile/860472-mukesh-tiwari) at the [University of Melbourne](https://www.unimelb.edu.au) and working with [Toby Murray](https://findanexpert.unimelb.edu.au/profile/780796-toby-murray) on [verified information flow security](http://covern.org/). Before joining the University of Melbourne, I was a PhD student at the [Australian National University, Canberra](https://www.anu.edu.au/). During my PhD, I worked with [Dirk Pattinson](http://users.cecs.anu.edu.au/~dpattinson/) in formal verification of electronic voting. 
+
 
 A data-driven personal website
 ======
