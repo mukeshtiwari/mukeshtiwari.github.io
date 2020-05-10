@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Integrated Post Graduate, Indian Institute of Information Technology & Management, Gwalior, India, 2009
+* Ph.D in Formal Verification of Electronic Voting, Australian National University, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Lecturer (2012 - 2015)
+  * International Institute of Information Technology, Bhubaneswar, India 
+  * Duties included: Teaching (C programming, Cryptography, Compiler Design) and Supervision (Masters students in their final year project).
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Haskell Developer (2011 - 2012) 
+  * Parallel Scientific, Colorado, USA
+  * Duties included: researching and prototyping high performance software programs, mainly linear algebra algorithms, written in Haskell for financial companies.
+ 
+ 
+* Technical Assistant (2009 - 2011)
+  * Government of India, Kolkata, India
+  * Duties included:  developer for automating the day-to-day job, including enforcing the security policies of the organization.
+
   
 Skills
 ======
