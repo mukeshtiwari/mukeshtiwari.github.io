@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://github.com/mukeshtiwari/CV/blob/master/mukesh_tiwari_cv.pdf)
+[PDF Format](https://github.com/mukeshtiwari/CV/blob/master/mukesh_tiwari_cv.pdf)
 
 Education
 ======
@@ -57,10 +57,11 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> --->
   
