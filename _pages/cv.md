@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://github.com/mukeshtiwari/CV/blob/master/mukesh_tiwari_cv.pdf)
+
 Education
 ======
 * Integrated Post Graduate, Indian Institute of Information Technology & Management, Gwalior, India, 2009
